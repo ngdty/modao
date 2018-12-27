@@ -65,7 +65,8 @@ ul{
   z-index: 10;
 }
 li{
-  line-height: 25px
+  line-height: 25px;
+  text-align: center;
 }
 .add{
   display: flex;
