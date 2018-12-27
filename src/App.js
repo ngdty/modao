@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './App.css'
 // import Dropdown from './components/dropdown/Dropdown'
 // import Card from './components/card/Card'
-// import Add from './components/add/Add'
 
 class App extends Component {
   constructor(props){
@@ -11,7 +10,7 @@ class App extends Component {
      defaultHeight:true,    
      List:[],
      ListLock:[],
-    ListPrivacy:[]   
+     ListPrivacy:[]   
    }
     this.clicksidebar=this.clicksidebar.bind(this)
     this.clickall=this.clickall.bind(this)
