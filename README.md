@@ -19,7 +19,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
  ### 2.筛选数据时的问题 
  当点击锁定是，将所有lock为true的数组 渲染到页面上，最后用if判断解决的问题。
 
-##效果图 
+## 效果图 
   ![image](https://github.com/ngdty/modao/blob/master/img/img2.png)
 ![image](https://github.com/ngdty/modao/blob/master/img/img3.png)
 
